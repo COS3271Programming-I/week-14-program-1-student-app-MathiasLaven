@@ -1,0 +1,58 @@
+You will provide some information about a person, real or hypothetical.
+
+What is your person's first name? 
+>>John
+What is your person's last name? 
+>>Smith
+What is your person's gender? 
+>>Male
+What is your person's age? 
+>>20
+What is your person's weight (in pounds)? 
+>>167
+What is your person's height (in feet/inches, formatted as X'Y")? 
+>>5'11"
+What is your person's ethnic group? 
+>>Hispanic
+What is your person's religious affiliation? 
+>>Christian
+What is your person's college major? 
+>>Business
+What is your person's class rank? 
+>>Sophmore
+What is your person's student email? 
+>>jgsmith@somecollege.edu
+
+First name: John
+Last name: Smith
+Gender: Male
+Age: 20
+Weight: 167.00
+Height: 5'11"
+Ethnic group: Hispanic
+Religion: Christian
+Major: Business
+Class rank: Sophmore
+Email: jgsmith@somecollege.edu
+
+----------------------------------
+[1] Greet [2] Pray     [3] Nap     
+[4] Eat   [5] Get Name [6] Convert 
+[7] Attend Class 
+----------------------------------
+[0] Quit
+ 
+>>7
+
+Your person attends a class on sales.
+
+----------------------------------
+[1] Greet [2] Pray     [3] Nap     
+[4] Eat   [5] Get Name [6] Convert 
+[7] Attend Class 
+----------------------------------
+[0] Quit
+ 
+>>0
+
+Goodbye!
